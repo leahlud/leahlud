@@ -1,4 +1,10 @@
-### Hi there 👋
+
+### Hi, I'm Leah!
+
+📚 I'm studying computer science at University of Illinois Urbana-Champaign 
+<br>💻 My current interests include computer graphics and app development 
+<br>🌌 I'm also passionate about the environment, astronomy, and art / graphic design!
+<br>💬 Feel free to message me at leahnl2@illinois.edu
 
 <!--
 **leahlud/leahlud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
